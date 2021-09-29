@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-plugin-ms-bing",
+  "version": "0.0.1",
+  "description": "Gatsby plugin for adding the MS Bing tracking pixel",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
+    "prettier": "^2.4.1"
+  },
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "watch": "babel -w src --out-dir .",
+    "format": "prettier --write .",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincro/gatsby-plugin-ms-bing.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "outbrain"
+  ],
+  "author": "Vincent Roman",
+  "license": "CCO 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/vincro/gatsby-plugin-ms-bing/issues"
+  },
+  "homepage": "https://github.com/vincro/gatsby-plugin-ms-bing#readme"
+}
