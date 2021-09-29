@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-ms-bing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby plugin for adding the MS Bing tracking pixel",
   "main": "index.js",
   "devDependencies": {
@@ -23,7 +23,8 @@
   "keywords": [
     "gatsby",
     "gatsby-plugin",
-    "outbrain"
+    "microsoft",
+    "bing"
   ],
   "author": "Vincent Roman",
   "license": "CCO 1.0 Universal",
