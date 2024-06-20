@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-ms-bing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gatsby plugin for adding the MS Bing tracking pixel",
   "main": "index.js",
   "devDependencies": {

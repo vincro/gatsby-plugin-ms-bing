@@ -20,3 +20,10 @@ plugins: [
   },
 ];
 ```
+
+## Changelog
+
+| Version | Changes                       |
+|---------|-------------------------------|
+| 0.0.3   | Add enableAutoSpaTracking     |
+| 0.0.2   | Initial release               |
