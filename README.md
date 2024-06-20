@@ -15,6 +15,7 @@ plugins: [
     resolve: `gatsby-plugin-ms-bing`,
     options: {
       bingId: "__ID__HERE__",
+      enableAutoSpaTracking: true
     },
   },
 ];
